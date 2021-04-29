@@ -1,0 +1,12 @@
+.abc {
+  background-color: rgb(143, 226, 10);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  height: 70px;
+  /* color: black; */
+  color: aliceblue;
+  font-size: 50px;
+  line-height: 1.4;
+}
